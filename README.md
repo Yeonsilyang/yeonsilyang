@@ -1,16 +1,28 @@
-## Hi there 👋
+Hey there! 👋 I'm Yeonsil Yang 🌟
 
-<!--
-**Yeonsilyang/yeonsilyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Quant | M.S. Information Systems Management | Passionate about Algorithmic Trading, Machine Learning, and Financial Modeling**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+I’m passionate about building **AI-driven trading systems** that leverage machine learning, reinforcement learning, and quantitative strategies to generate alpha.  
+My work focuses on:
+- Developing algorithmic trading bots.
+- Applying reinforcement learning models like **Deep Q-Networks (DQN)**.
+- Integrating real-time market data with broker APIs (e.g., Alpaca).
+- Combining financial domain knowledge with data science techniques.
+
+---
+
+💼 What I Do
+- 📈 Build and backtest quantitative trading strategies.
+- 🤖 Develop machine learning models for market prediction and automation.
+- 🧮 Conduct financial modeling and statistical analysis.
+- 📊 Visualize trading performance and market insights.
+
+---
+
+🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+
