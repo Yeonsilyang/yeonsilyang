@@ -5,6 +5,7 @@ Aspiring Quant | M.S. Information Systems Management | Passionate about Algorith
 ---
 
 🚀 About Me
+
 I’m passionate about building **AI-driven trading systems** that leverage machine learning, reinforcement learning, and quantitative strategies to generate alpha.  
 My work focuses on:
 - Developing algorithmic trading bots.
